@@ -1,0 +1,10 @@
+{
+    "name": "lista-encadeada",
+    "description": "Implementação de lista encadeada",
+    "development": {
+    },
+    "src": [
+        "src/lista.c",
+        "src/lista.h"
+    ]
+}
