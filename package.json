@@ -1,8 +1,9 @@
 {
     "name": "lista-encadeada",
-    "description": "Implementação de lista encadeada",
-    "development": {
-    },
+    "version": "0.1.0",
+    "repo": "neylsongularte/Lista-Encadeada-em-C-Linked-list-",
+    "description": "Implementação de lista encadeada (Linked list)",
+    "keywords": ["linked", "list", "lista", "encadeada"],
     "src": [
         "src/lista.c",
         "src/lista.h"
