@@ -1,8 +1,8 @@
 {
-    "name": "lista-encadeada",
+    "name": "simple-linked-list-c",
     "version": "0.1.0",
-    "repo": "neylsongularte/Lista-Encadeada-em-C-Linked-list-",
-    "description": "Implementação de lista encadeada (Linked list)",
+    "repo": "neylsongularte/simple-linked-list-c",
+    "description": "Implementação de lista encadeada (Linked list implementation)",
     "keywords": ["linked", "list", "lista", "encadeada"],
     "src": [
         "src/lista.c",
